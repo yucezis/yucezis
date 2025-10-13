@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Zişan</h1>
+<h1 align="center">Hi 👋 I'm Zişan</h1>
 <h3 align="center">Computer Engineering Student from Türkiye</h3>
 
 - 🔭 I’m currently working on **Flutter E-Commerce App**
