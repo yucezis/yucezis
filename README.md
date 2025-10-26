@@ -7,6 +7,10 @@
 - 🌱 I’m currently learning **Flutter, REST API integration, and State Management**
 
 - 💬 Ask me about **.NET and SQL Server**
+  
+- 📊 Interested in **Data Science**
+  
+- 📚 Improving my **English and German skills**
 
 - 📫 How to reach me **yucezisan@gmail.com**
 
