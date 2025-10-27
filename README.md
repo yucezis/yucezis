@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **.NET and SQL Server**
   
-- 📊 Interested in **Data Science**
+- 📊 I'm interested in **Data Science**
   
-- 📚 Improving my **English and German skills**
+- 📚 I'm improving my **English and German skills**
 
 - 📫 How to reach me **yucezisan@gmail.com**
 
@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yucezis&show_icons=true&locale=en&layout=compact&cache_seconds=1" alt="yucezis" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yucezis&show_icons=true&locale=en" alt="yucezis" /></p>
+
 
 
 
