@@ -1,3 +1,4 @@
+![Teknoloji Görseli](https://i.imgur.com/qS5tWl8.png)
 
 <h1 align="center">Hi 👋 I'm Zişan</h1>
 <h3 align="center">Computer Engineering Student from Türkiye</h3>
