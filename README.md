@@ -1,4 +1,4 @@
-
+![MasterHead](https://r.resimlink.com/Rwm5lD7g48N.jpg)
 <h1 align="center">Hi 👋 I'm Zişan</h1>
 <h3 align="center">Computer Engineering Student from Türkiye</h3>
 
