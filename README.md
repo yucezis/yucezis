@@ -10,8 +10,6 @@
   
 - 📊 I'm interested in **Data Science**
   
-- 📚 I'm improving my **English and German skills**
-
 - 📫 How to reach me **yucezisan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
