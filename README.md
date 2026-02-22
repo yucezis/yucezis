@@ -2,15 +2,16 @@
 <h1 align="center">Hi 👋, I'm Zişan</h1>
 <h3 align="center">Computer Engineering Student from Türkiye</h3>
 
-- 🔭 I’m currently working on [Flutter E-Commerce App](https://github.com/yucezis/ECommerceMobileApp)
+- 🔭 I’m currently working on [Fintech App](https://github.com/yucezis/nexo-flutter-csharp)
 
-- 🌱 I’m currently learning **Flutter, REST API integration, and State Management**
+- 🌀 I’m currently learning **ML.NET & Backend Architecture**
 
-- 💬 Ask me about **.NET and SQL Server**
+- 💬 Ask me about **.NET and SQL**
 
-- 📊 I'm interested in **Data Science and AI**
+- 📱 I'm interested in **Mobile Development**
 
 - 📫 How to reach me **yucezisan@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
