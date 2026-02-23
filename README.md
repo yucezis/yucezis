@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,dart,flutter,html,css,bootstrap,python,github,git,vscode,visualstudio&theme=light" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,dart,flutter,html,css,bootstrap,python,docker,postgresql,postman,redis,vscode,visualstudio&theme=light" />
 
 
 ![Metrics](https://metrics.lecoq.io/yucezis?template=classic&base=0&languages=1&languages.limit=6)
