@@ -7,8 +7,6 @@
   - 📱 [Mobile Repository](https://github.com/yucezis/fintech-flutter-app)
 
 - 🌀 I’m currently learning **ML.NET & Backend Architecture**
-  
-- 🌀 I’m currently learning **ML.NET & Backend Architecture**
 
 - 💬 Ask me about **.NET and SQL**
 
