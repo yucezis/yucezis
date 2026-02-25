@@ -2,8 +2,12 @@
 <h1 align="center">Hi 👋, I'm Zişan</h1>
 <h3 align="center">Computer Engineering Student from Türkiye</h3>
 
-- 🔭 I’m currently working on [Fintech App](https://github.com/yucezis/nexo-flutter-csharp)
+- 🔭 I’m currently working on a Fintech App:
+  - ⚙️ [Backend Repository](https://github.com/yucezis/fintech-dotnet-backend)
+  - 📱 [Mobile Repository](https://github.com/yucezis/fintech-flutter-app)
 
+- 🌀 I’m currently learning **ML.NET & Backend Architecture**
+  
 - 🌀 I’m currently learning **ML.NET & Backend Architecture**
 
 - 💬 Ask me about **.NET and SQL**
@@ -22,8 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=cs,dotnet,dart,flutter,html,css,bootstrap,python,docker,postgresql,postman,redis,vscode,visualstudio&theme=light" />
 
-
-![Metrics](https://metrics.lecoq.io/yucezis?template=classic&base=0&languages=1&languages.limit=6)
+![Metrics](https://metrics.lecoq.io/yucezis?template=classic&base=0&languages=1&languages.limit=5)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yucezis&" alt="yucezis" /></p>
 
