@@ -24,9 +24,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=cs,dotnet,dart,flutter,html,css,bootstrap,python,docker,postgresql,postman,redis,vscode,visualstudio&theme=light" />
 
-![Metrics](https://metrics.lecoq.io/yucezis?template=classic&base=0&languages=1&languages.limit=5)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yucezis&" alt="yucezis" /></p>
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yucezis&layout=compact&theme=vision-friendly-dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yucezis&theme=dark)](https://git.io/streak-stats)
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yucezis&label=Profile%20Views&color=0e75b6&style=flat" alt="yucezis" />
