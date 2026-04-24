@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zişan</h1>
 <h3 align="center">Computer Engineering Student from Türkiye</h3>
 
-- 🔭 I’m currently working on a Fintech App:
-  - ⚙️ [Backend Repository](https://github.com/yucezis/fintech-dotnet-backend)
-  - 📱 [Mobile Repository](https://github.com/yucezis/fintech-flutter-app)
+- 🔭 I’m currently working on a [Fintech App](https://github.com/yucezis/fintech-ecosystem)
 
 - 🌀 I’m currently learning **ML.NET & Backend Architecture**
 
