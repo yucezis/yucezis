@@ -2,13 +2,11 @@
 <h1 align="center">Hi 👋, I'm Zişan</h1>
 <h3 align="center">Computer Engineering Student from Türkiye</h3>
 
-- 🔭 I’m currently working on a [NoirPay](https://github.com/yucezis/noirPay-ecosystem)
+- 🔭 I’m currently working on a [File Upload Project](https://github.com/yucezis/FileUploadSystem-Dotnet-React)
 
 - 🌀 I’m currently learning **Backend Architecture**
 
 - 💬 Ask me about **.NET and SQL**
-
-- 📱 I'm interested in **Web Development**
 
 - 📫 How to reach me **yucezisan@gmail.com**
 
