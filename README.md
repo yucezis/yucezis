@@ -26,8 +26,7 @@
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yucezis&layout=compact&theme=vision-friendly-dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yucezis&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yucezis&theme=dark&timezone=Europe/Istanbul)](https://git.io/streak-stats)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yucezis&label=Profile%20Views&color=0e75b6&style=flat" alt="yucezis" />
